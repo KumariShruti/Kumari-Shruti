@@ -1,0 +1,175 @@
+body{
+	/*background-color: white;*/
+	background-image: url('p5.jpg');
+
+}
+
+}
+.yy{
+	height: 300px;
+	width:400px;
+	position:absolute;
+	margin-left: 60%;
+	margin-top: 80px; 
+
+}
+#img{
+
+	margin-top: 100px;
+	margin-right: 250px;
+	float: right;
+}
+.logo{
+	margin-left: 500px;
+	font-style: italic;
+	font-weight: bold;
+	color: rgb(165,42,42);
+	font-size: 60px; 
+}
+.menu a{
+	color: #f0bb82;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 10px 20px;
+	margin: 10px;
+	margin-top: 20px;
+	font-size: 20px;
+}
+.menu a:hover{
+	background: #e74c3c;
+	transition: 0.4;
+}
+.text1 {
+	color: black;
+	margin-top: 150px;
+	margin-left: 250px;
+	max-width: 450px;
+}
+.text1 h1{
+	font-size:50px;
+	color: #FFEFD5;
+
+
+}
+.text1 p{
+	font-size: 30px;
+	font-family: sans-serif;
+	color: red;
+}
+.text1 h3{
+	font-size: 30px;
+	font-family: sans-serif;
+	color: blue;
+}
+span{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.c-btn{
+	border: none;
+	outline: none;
+	color: white;
+	background: #e74c3c;
+	padding: 10px;
+}
+#about{
+	margin-top: 120px;
+	padding: 100px 50px;
+}
+.section-info{
+	font-weight: bold;
+	text-align: center;
+}
+.section-info h1{
+	font-size: 50px;
+}
+.section-info p{
+	font-size: 20px;
+	color: #e74c3c;
+}
+.section-info span{
+	font-size: 60px;
+	color: #6B8E23;
+	font-weight: bold;
+}
+.xx{
+	margin-left: 200px;
+}
+.about-right-col p {
+	margin-left: 400px;
+	line-height: 40px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 120%;
+	color: white;
+}
+.about-left-col img{
+	margin-left: 550px;
+}
+.section-info h1{
+	color:rgb(128,0,0);
+}
+.zz{
+	margin-left: 550px;
+}
+progress{
+	width: 60%;
+}
+.progress-div{
+	width:70%;
+	margin-left: 370px; 
+
+}
+.progress-div p{
+	margin-bottom: 10px;
+	font-size: 20px;
+	padding-left: 80px;
+	text-align: justify;
+}
+.contact-left-col form{
+	text-align: center;
+}
+.contact-left-col form input{
+	width: 40%;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+.contact-left-col{
+	flex-basis: 50%;
+	margin-left: 90px;
+}
+#footer{
+	margin-top: 10px;
+	background: seagreen;
+	color: white;
+	padding: 8px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	
+}
+#kuchv{
+	font-size: 60px;
+	margin-left: 650px;
+	font-weight: bold;
+	color: #6B8E23;
+}
+#kuch{
+	font-size: 60px;
+	margin-left: 650px;
+	font-weight: bold;
+	color: #6B8E23;
+}
+#lorem{
+	display: inline-flex;
+	position: absolute;
+	top: 5px;
+	right: 2cm;
+}	
+
+
+
+
+
+

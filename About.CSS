@@ -1,0 +1,52 @@
+body{
+	/*background-color: white;*/
+	background-image: url('p5.jpg');
+
+}
+
+#about{
+	margin-top: 1px;
+	padding: 100px 50px;
+}
+.section-info{
+	font-weight: bold;
+	text-align: center;
+}
+.section-info h1{
+	font-size: 50px;
+}
+.section-info p{
+	margin-left: 1px;
+	font-size: 20px;
+	color: #e74c3c;
+}
+.menu a{
+	color: #f0bb82;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 10px 40px;
+	margin: 0px;
+	margin-top: 50px;
+	font-size: 20px;
+
+}
+.menu a:hover{
+	background: #e74c3c;
+	transition: 0.4;
+}
+.section-info span{
+	font-size: 60px;
+	color: #6B8E23;
+	font-weight: bold;
+	margin-top: 10px;
+}
+.xx{
+	margin-left: 550px;
+}
+.about-right-col p {
+	margin-left: 450px;
+	line-height: 40px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 120%;
+	color: white;

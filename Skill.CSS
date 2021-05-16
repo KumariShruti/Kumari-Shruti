@@ -1,0 +1,47 @@
+body{
+	/*background-color: white;*/
+	background-image: url('p5.jpg');
+
+}
+
+.about-left-col img{
+	margin-left: 550px;
+}
+.section-info h1{
+	margin-top: 100px;
+	margin-left: 680px;
+	font-size: 60px;
+	color:#6B8E23;
+}
+.zz{
+	margin-left: 550px;
+}
+progress{
+	width: 60%;
+}
+.progress-div{
+	width:70%;
+	margin-left: 370px;
+	color: white; 
+
+}
+.progress-div p{
+	margin-bottom: 10px;
+	font-size: 20px;
+	padding-left: 80px;
+	text-align: justify;
+}
+.menu a{
+	color: #f0bb82;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 10px 40px;
+	margin: 0px;
+	margin-top: 50px;
+	font-size: 20px;
+
+}
+.menu a:hover{
+	background: #e74c3c;
+	transition: 0.4;
+}
